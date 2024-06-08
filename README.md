@@ -4,6 +4,7 @@ The purpose of this project is to assess several machine learning classification
 ## Materials:
 
 **Programming Languages:** Python
+
 **Libraries and Frameworks:**
 - Scikit-Learn
 - TensorFlow
@@ -11,6 +12,7 @@ The purpose of this project is to assess several machine learning classification
 - NumPy
 - Matplotlib
 - Seaborn
+- 
 **Environment:**
 - Jupyter Notebook
 
