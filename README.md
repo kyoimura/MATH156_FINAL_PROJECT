@@ -12,7 +12,7 @@ The purpose of this project is to assess several machine learning classification
 - NumPy
 - Matplotlib
 - Seaborn
-- 
+
 **Environment:**
 - Jupyter Notebook
 
