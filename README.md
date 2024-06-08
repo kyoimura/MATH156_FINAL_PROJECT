@@ -1,4 +1,4 @@
-# MATH 156 Final Project: Predictive Analysis of Heart Disease Using Machine Learning Models
+# Predictive Analysis of Heart Disease Using Machine Learning Models
 The purpose of this project is to assess several machine learning classification models to predict the presence of heart disease, specifically implementing and comparing Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbors, and Neural Network. Overall, our results demonstrate that all the models we implemented produced satisfactory results. In particular, Random Forest provided the best performance in predicting heart disease.
 
 ## Materials:
