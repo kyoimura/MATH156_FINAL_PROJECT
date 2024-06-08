@@ -19,6 +19,6 @@ The purpose of this project is to assess several machine learning classification
 
 ## Overview of Files:
 - Data: heart_statlog_cleveland_hungary_final.csv
-- Nikki Code: Math156_LR_SVM.ipynb
+- Nikki Code: Math 156 LR and SVM.ipynb
 - Kyosuke Code: Math 156 DT and KNN.ipynb
 - Daniel Code: Math 156 RF and NN.ipynb
