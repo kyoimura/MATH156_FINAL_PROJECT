@@ -3,7 +3,8 @@ The purpose of this project is to assess several machine learning classification
 
 ## Materials:
 
-**Programming Languages:** Python
+**Programming Languages:** 
+- Python
 
 **Libraries and Frameworks:**
 - Scikit-Learn
